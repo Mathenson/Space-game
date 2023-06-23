@@ -1,0 +1,23 @@
+{
+  "name": "Valkyrie V2",
+  "description": "Valkyrie Spaceship - modification #2",
+  "image": "https://bafybeic2lrkh3cwbg6tljuqpnopf5htvmwqzhfwgmyrabj3oyrkay7aqzi.ipfs.nftstorage.link/32.png",
+  "attributes": [
+    {
+      "trait_type": "Health",
+      "value": "36"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "14"
+    },
+    {
+      "trait_type": "Speed",
+      "value": "5"
+    },
+    {
+      "trait_type": "Weapons",
+      "value": "2"
+    }
+  ]
+}

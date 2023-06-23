@@ -1,0 +1,23 @@
+{
+  "name": "Sparrow V2",
+  "description": "Sparrow Spaceship - modification #2",
+  "image": "https://bafybeic2lrkh3cwbg6tljuqpnopf5htvmwqzhfwgmyrabj3oyrkay7aqzi.ipfs.nftstorage.link/42.png",
+  "attributes": [
+    {
+      "trait_type": "Health",
+      "value": "34"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "15"
+    },
+    {
+      "trait_type": "Speed",
+      "value": "5"
+    },
+    {
+      "trait_type": "Weapons",
+      "value": "2"
+    }
+  ]
+}

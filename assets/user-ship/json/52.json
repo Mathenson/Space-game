@@ -1,0 +1,23 @@
+{
+  "name": "Alto V2",
+  "description": "Alto Spaceship - modification #2",
+  "image": "https://bafybeic2lrkh3cwbg6tljuqpnopf5htvmwqzhfwgmyrabj3oyrkay7aqzi.ipfs.nftstorage.link/52.png",
+  "attributes": [
+    {
+      "trait_type": "Health",
+      "value": "39"
+    },
+    {
+      "trait_type": "Attack",
+      "value": "12"
+    },
+    {
+      "trait_type": "Speed",
+      "value": "5"
+    },
+    {
+      "trait_type": "Weapons",
+      "value": "2"
+    }
+  ]
+}
